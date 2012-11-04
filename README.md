@@ -6,7 +6,7 @@ Linux: `./v2-blog-link-crawler.py`
 
 Optionally a crawl depth argument can be given to limit the number of link traversals to follow with `-d [#]`.
 
-#Description
+##Description
 Starts with an initial website and records what websites are hyperlinked. Those links are traversed and the cycle repeats. Website mappings are stored in a matrix and two other files listed below.
 
 ##Output Files
