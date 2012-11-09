@@ -1,4 +1,4 @@
-#Web Crawler Fever
+#Web Crawler Research
 A simple breadth first web crawler implemented in python to map web interconnections
 
 ##Usage
